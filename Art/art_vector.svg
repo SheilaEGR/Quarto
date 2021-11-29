@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="art_vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:zoom="0.16770307"
+     inkscape:cx="482.99652"
+     inkscape:cy="2462.6859"
+     inkscape:window-width="1872"
+     inkscape:window-height="2054"
+     inkscape:window-x="1953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#472d30;fill-opacity:1;stroke:none;stroke-width:5.47414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect43633"
+       width="793.75"
+       height="793.75"
+       x="-200.0692"
+       y="595.875"
+       rx="2.7370689"
+       ry="2.7370689"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\board.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#c9cba3;stroke:#000000;stroke-width:0.794015;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect846"
+       width="67.73333"
+       height="67.73333"
+       x="-66.262947"
+       y="-23.270916" />
+    <rect
+       style="fill:#ffe1a8;fill-opacity:1;stroke:#000000;stroke-width:0.794015;paint-order:stroke fill markers"
+       id="rect1198"
+       width="67.73333"
+       height="67.73333"
+       x="1.4703827"
+       y="-23.270916" />
+    <rect
+       style="fill:#e26d5c;fill-opacity:1;stroke:#000000;stroke-width:0.794015;paint-order:stroke fill markers"
+       id="rect1200"
+       width="67.73333"
+       height="67.73333"
+       x="69.203712"
+       y="-23.270916" />
+    <rect
+       style="fill:#723d46;fill-opacity:1;stroke:#000000;stroke-width:0.794015;paint-order:stroke fill markers"
+       id="rect1202"
+       width="67.73333"
+       height="67.73333"
+       x="136.93704"
+       y="-23.270916" />
+    <rect
+       style="fill:#472d30;fill-opacity:1;stroke:#000000;stroke-width:0.794015;paint-order:stroke fill markers"
+       id="rect1204"
+       width="67.73333"
+       height="67.73333"
+       x="204.67038"
+       y="-23.270916" />
+    <rect
+       style="fill:#c9cba3;fill-opacity:1;stroke:#000000;stroke-width:0.784815;paint-order:stroke fill markers"
+       id="rect1893"
+       width="66.948517"
+       height="66.948517"
+       x="-42.602211"
+       y="111.22247" />
+    <circle
+       style="fill:#e26d5c;fill-opacity:1;stroke:#000000;stroke-width:0.784815;paint-order:stroke fill markers"
+       id="path1917"
+       cx="128.57909"
+       cy="161.71053"
+       r="33.474258" />
+    <rect
+       style="fill:#c9cba3;fill-opacity:1;stroke:#000000;stroke-width:0.392407;paint-order:stroke fill markers"
+       id="rect4948"
+       width="33.474258"
+       height="33.474258"
+       x="-25.049408"
+       y="208.44859" />
+    <circle
+       style="fill:#e26d5c;fill-opacity:1;stroke:#000000;stroke-width:0.392407;paint-order:stroke fill markers"
+       id="circle4950"
+       cx="134.52225"
+       cy="227.60593"
+       r="16.737129" />
+    <circle
+       style="fill:#000000;fill-opacity:0.513661;stroke:#808080;stroke-width:0.794015;paint-order:stroke fill markers;stroke-opacity:0.50999999"
+       id="path4812"
+       cx="232.31473"
+       cy="162.10757"
+       r="8.4666662" />
+    <rect
+       style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:2.57508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4952"
+       width="65.158249"
+       height="65.158249"
+       x="-56.442368"
+       y="288.28275"
+       rx="2.5750813"
+       ry="2.5750813"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\solid_rect_white.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:1.28754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4956"
+       width="32.579124"
+       height="32.579124"
+       x="-43.210522"
+       y="370.93286"
+       rx="2.5750813"
+       ry="2.5750813" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="66.657372"
+       y="-35.103588"
+       id="text5050"><tspan
+         sodipodi:role="line"
+         id="tspan5048"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="66.657372"
+         y="-35.103588">Color palette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="78.884468"
+       y="98.605576"
+       id="text7026"><tspan
+         sodipodi:role="line"
+         id="tspan7024"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="78.884468"
+         y="98.605576">Variations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="98.211159"
+       y="269.78485"
+       id="text13680"><tspan
+         sodipodi:role="line"
+         id="tspan13678"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="98.211159"
+         y="269.78485">Pieces</tspan></text>
+    <rect
+       style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:2.57508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect15638"
+       width="65.158249"
+       height="65.158249"
+       x="108.71732"
+       y="289.07159"
+       rx="2.5750813"
+       ry="2.5750813"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\solid_rect_black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:1.28754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect15642"
+       width="32.579124"
+       height="32.579124"
+       x="121.658"
+       y="370.93289"
+       rx="2.5750813"
+       ry="2.5750813" />
+    <circle
+       style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:2.57508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle15646"
+       cx="-21.443056"
+       cy="460.93542"
+       r="32.579124"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\solid_cylinder_white.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:2.57508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle15650"
+       cx="148.55295"
+       cy="462.90753"
+       r="32.579124"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\solid_cylinder_black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:1.28754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle15654"
+       cx="-21.345398"
+       cy="532.42352"
+       r="16.289562" />
+    <circle
+       style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:1.28754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle15658"
+       cx="147.46735"
+       cy="532.42352"
+       r="16.289562" />
+    <circle
+       style="fill:#000000;fill-opacity:0.513725;stroke:#808080;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.51;paint-order:stroke fill markers"
+       id="circle15662"
+       cx="230.76129"
+       cy="220.50633"
+       r="16.737129" />
+    <g
+       id="g32312"
+       transform="matrix(0.97325913,0,0,0.97325913,0.68949592,7.6745)"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\hollow_rect_white.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:2.64583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4954"
+         width="66.948517"
+         height="66.948517"
+         x="27.107265"
+         y="288.31808"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513725;stroke:#808080;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle18309"
+         cx="60.581524"
+         cy="321.79236"
+         r="16.737129" />
+    </g>
+    <g
+       id="g32316"
+       transform="matrix(0.97325909,0,0,0.97325909,5.2775353,7.6956087)"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\hollow_rect_black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:2.64583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect15640"
+         width="66.948517"
+         height="66.948517"
+         x="198.68098"
+         y="289.10696"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513725;stroke:#808080;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle22683"
+         cx="232.15524"
+         cy="322.58121"
+         r="16.737129" />
+    </g>
+    <g
+       id="g32328"
+       transform="matrix(0.97325909,0,0,0.97325909,-5.5108742,4.3846084)"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\hollow_cylinder_white.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:2.64583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle15648"
+         cx="64.709496"
+         cy="464.25931"
+         r="33.474258" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513725;stroke:#808080;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26451"
+         cx="64.709496"
+         cy="464.25931"
+         r="16.737129" />
+    </g>
+    <g
+       id="g32332"
+       transform="matrix(0.97325909,0,0,0.97325909,5.493393,11.420928)"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\hollow_cylinder_black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:2.64583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle15652"
+         cx="240.22743"
+         cy="461.89279"
+         r="33.474258" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513725;stroke:#808080;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26453"
+         cx="240.22743"
+         cy="461.89279"
+         r="16.737129" />
+    </g>
+    <g
+       id="g32324"
+       transform="matrix(0.97325909,0,0,0.97325909,0.99026089,9.8815623)">
+      <rect
+         style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4958"
+         width="33.474258"
+         height="33.474258"
+         x="37.693134"
+         y="370.19116"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513661;stroke:#808080;stroke-width:0.794015;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26455"
+         cx="54.430264"
+         cy="386.92828"
+         r="8.4666662" />
+    </g>
+    <g
+       id="g32320"
+       transform="matrix(0.97325909,0,0,0.97325909,5.7786958,9.8182795)">
+      <rect
+         style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect15644"
+         width="33.474258"
+         height="33.474258"
+         x="216.76086"
+         y="367.82465"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513661;stroke:#808080;stroke-width:0.794015;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26457"
+         cx="233.49799"
+         cy="384.56177"
+         r="8.4666662" />
+    </g>
+    <g
+       id="g32340"
+       transform="matrix(0.97325909,0,0,0.97325909,1.2012052,13.731296)">
+      <circle
+         style="fill:#c9cba3;fill-opacity:1;stroke:#a8ab6a;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle15656"
+         cx="62.31871"
+         cy="530.89246"
+         r="16.737129" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513661;stroke:#808080;stroke-width:0.794015;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26459"
+         cx="62.31871"
+         cy="530.89246"
+         r="8.4666662" />
+    </g>
+    <g
+       id="g32336"
+       transform="matrix(0.97325909,0,0,0.97325909,5.926357,13.773485)">
+      <circle
+         style="fill:#e26d5c;fill-opacity:1;stroke:#942a1a;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle15660"
+         cx="239.01991"
+         cy="532.47015"
+         r="16.737129" />
+      <circle
+         style="fill:#000000;fill-opacity:0.513661;stroke:#808080;stroke-width:0.794015;stroke-opacity:0.51;paint-order:stroke fill markers"
+         id="circle26461"
+         cx="239.01991"
+         cy="532.47015"
+         r="8.4666662" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:13.2292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path32950"
+       cx="196.8058"
+       cy="992.75"
+       r="370.41666" />
+    <g
+       id="g43851">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path32654"
+         cx="-8.2938309"
+         cy="790.01685"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32874"
+         cx="128.43925"
+         cy="790.01685"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32876"
+         cx="265.17233"
+         cy="790.01685"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32878"
+         cx="401.90543"
+         cy="790.01685"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32880"
+         cx="-8.2938309"
+         cy="925.17224"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32882"
+         cx="128.43925"
+         cy="925.17224"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32884"
+         cx="265.17233"
+         cy="925.17224"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32886"
+         cx="401.90543"
+         cy="925.17224"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32888"
+         cx="-8.2938309"
+         cy="1060.3276"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32890"
+         cx="128.43925"
+         cy="1060.3276"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32892"
+         cx="265.17233"
+         cy="1060.3276"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32894"
+         cx="401.90543"
+         cy="1060.3276"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32896"
+         cx="-8.2938309"
+         cy="1195.4832"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32898"
+         cx="128.43925"
+         cy="1195.4832"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32900"
+         cx="265.17233"
+         cy="1195.4832"
+         r="47.724037" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:6.15193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle32902"
+         cx="401.90543"
+         cy="1195.4832"
+         r="47.724037" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:12.0522;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path48298"
+       cx="701.76782"
+       cy="1151.4093"
+       r="61.707222"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\piece_position.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffe1a8;stroke-width:5.29166668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect51243"
+       width="123.41444"
+       height="123.41444"
+       x="654.15253"
+       y="859.2522"
+       inkscape:export-filename="D:\DocsSheila\Gamedev\Quarto\Art\rect_contour.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
